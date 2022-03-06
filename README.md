@@ -1,5 +1,5 @@
-# Practical Training Approaches for Discordant Atopic Dermatitis Severity Datasets: Merging Methods with Soft-label and Train-set Pruning, 
-![System Overview](./assets/System_overview.jpg)
+# Practical Training Approaches for Discordant Atopic Dermatitis Severity Datasets: Merging Methods with Soft-label and Train-set Pruning
+![overview](./assets/Figure1.tif)
 
 
 
