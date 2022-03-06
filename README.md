@@ -1,4 +1,4 @@
-# "Practical Training Approaches for Discordant Atopic Dermatitis Severity Datasets: Merging Methods with Soft-label and Train-set Pruning", IEEE Journal of Biomedical and Health Informatics, 2022 (under review)
+# "Practical Training Approaches for Discordant Atopic Dermatitis Severity Datasets: Merging Methods with Soft-label and Train-set Pruning", ## IEEE Journal of Biomedical and Health Informatics, 2022 (under review)
 ![overview](./assets/Figure1.jpg)
 
 
