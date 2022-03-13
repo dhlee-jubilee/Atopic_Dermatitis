@@ -2,7 +2,7 @@
 ![overview](./assets/Figure1.jpg)
 
 ## Training Approaches for CNN
-(1) Individual vs Merging Methods(Integration vs Ensemble)
+(1) Individual vs Merging (Integration vs Ensemble)
 - Integration: merge the grade from the five dermatologists before training
 - Ensemble: train each individual dataset and merge the outcomes for each model
 
