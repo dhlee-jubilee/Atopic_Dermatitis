@@ -2,8 +2,8 @@
 ![overview](./assets/Figure1.jpg)
 
 Training Approaches for CNN
-(1) Individual vs Merging Methods
-  Mergint Methods
+(1) Individual vs Integration vs Ensemble
+ - Individual
  - Integration
  - Ensemble
 (2) Hard-Label vs Soft Label
