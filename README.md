@@ -2,12 +2,14 @@
 ![overview](./assets/Figure1.jpg)
 
 ## Training Approaches for CNN
-(1) Individual vs Integration vs Ensemble
-- Individual
-- Integration
-- Ensemble
+(1) Individual vs Merging Methods(Integration vs Ensemble)
+- Integration: merge the grade from the five dermatologists before training
+- Ensemble: train each individual dataset and merge the outcomes for each model
 (2) Hard-Label vs Soft Label
-(3) Train-set Pruning
+- Hard-Label: merge the grade using the median values 
+- Soft-Label: consider the distributions of each grading
+(3) Whole Dataset vs Train-set Pruning
+- Train-set Pruning: excluding discordant train-set (defined as discordant when the maximum number of matched raters was not more than two)
 
 ---
 ## License
